@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+  
+  
+  <category>
+      <pattern>qual è il capoluogo del lazio</pattern>
+      <template>Roma</template>
+  </category>
+  
+  <category>
+      <pattern>qual è il capoluogo della toscana</pattern>
+      <template>Firenze</template>
+  </category>
+  
+  
+ 
+ <category>
+     <pattern>qual è il capoluogo del piemonte</pattern>
+     <template>Torino</template>
+ </category>
+ 
+ <category>
+     <pattern>qual è il capoluogo della lombardia</pattern>
+     <template>Milano</template>
+ </category>
+ 
+ 
+ <category>
+     <pattern>qual è il capoluogo della campania</pattern>
+     <template>Napoli</template>
+ </category>
+ 
+ 
+ <category>
+     <pattern>qual è il capoluogo della sicilia</pattern>
+     <template>palermo</template>
+ </category>
+ 
+ 
+ 
+<category>
+    <pattern>qual è il capoluogo del veneto</pattern>
+    <template>venezia</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo dell emilia romagna</pattern>
+    <template>bologna</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo della puglia</pattern>
+    <template>bari</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo della toscana</pattern>
+    <template>firenze</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo della calabria</pattern>
+    <template>catanzaro</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo della sardegna</pattern>
+    <template>cagliari</template>
+</category>
+
+<category>
+    <pattern>qaul è il capoluogo della liguria</pattern>
+    <template>genova</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo delle marche</pattern>
+    <template>ancona</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo dell abruzzo</pattern>
+    <template>L'Aquila</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo del friuli venezia Giulia</pattern>
+    <template>Trieste</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo del trentino alto adige</pattern>
+    <template>Trento</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo dell umbria</pattern>
+    <template>Perugia</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo della basilicata</pattern>
+    <template>Potenza</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo del molise</pattern>
+    <template>Campobasso</template>
+</category>
+
+<category>
+    <pattern>qual è il capoluogo della valle d aosta</pattern>
+    <template>Aosta</template>
+</category>
+
+</aiml>
